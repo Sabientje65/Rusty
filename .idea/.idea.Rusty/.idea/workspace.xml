@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92ee04be-66bc-4bea-bd41-7f11e1cc37ba" name="Default Changelist" comment="">
+    <list default="true" id="92ee04be-66bc-4bea-bd41-7f11e1cc37ba" name="Default Changelist" comment="We /github/ 4">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Rusty/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Rusty/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Rusty/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Rusty/riderModule.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core" beforeDir="false" afterPath="$PROJECT_DIR$/core" afterDir="false" />
     </list>
-    <list id="1ab6286c-fee6-4ff2-947a-c1b3df1ab215" name="Revert &quot;We /github/ 3&quot;" comment="Revert &quot;We /github/ 3&quot;&#10;&#10;This reverts commit fcff3a5b">
-      <change beforePath="$PROJECT_DIR$/core/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main.rs" afterDir="false" />
-    </list>
+    <list id="1ab6286c-fee6-4ff2-947a-c1b3df1ab215" name="Revert &quot;We /github/ 3&quot;" comment="Revert &quot;We /github/ 3&quot;&#10;&#10;This reverts commit fcff3a5b" />
     <list id="321f8fbf-ff83-4f1b-a944-52e4d1a3baa2" name="We /github/ 2" comment="We /github/ 3" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,86 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/Cargo.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/core/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-msvc/lib/rustlib/src/rust/src/libstd/io/stdio.rs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4185">
-              <caret line="281" column="11" selection-start-line="281" selection-start-column="11" selection-end-line="281" selection-end-column="11" />
-              <folding>
-                <element signature="e#9330#9331#0" expanded="true" />
-                <element signature="e#9371#9372#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-msvc/lib/rustlib/src/rust/src/libcore/str/mod.rs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1065">
-              <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
-              <folding>
-                <element signature="e#126082#126083#0" expanded="true" />
-                <element signature="e#126120#126121#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/rand-0.6.5/src/lib.rs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6000">
-              <caret line="409" column="7" selection-start-line="409" selection-start-column="7" selection-end-line="409" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/rand-0.6.5/src/rngs/thread.rs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1410">
-              <caret line="94" column="7" selection-start-line="94" selection-start-column="7" selection-end-line="94" selection-end-column="7" />
-              <folding>
-                <element signature="e#4286#4287#0" expanded="true" />
-                <element signature="e#4344#4345#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-msvc/lib/rustlib/src/rust/src/liballoc/string.rs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4230">
-              <caret line="282" column="11" selection-start-line="282" selection-start-column="11" selection-end-line="282" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/Cargo.lock">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2295">
-              <caret line="153" column="7" selection-start-line="153" selection-start-column="7" selection-end-line="153" selection-end-column="7" />
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -112,7 +37,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/core" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/core" value="master" />
+        <entry key="$PROJECT_DIR$" value="0f6f69e6a0801d3b269b62fe2efc20848b78e3a4" />
+        <entry key="$PROJECT_DIR$/core" value="a444448f959eee535c3cc9bfee2ca6f6ff767c29" />
       </map>
     </option>
     <option name="RESET_MODE" value="MIXED" />
@@ -160,12 +86,6 @@
               <item name="core" type="34e6ba20:FileSystemExplorerNode" />
               <item name="src" type="34e6ba20:FileSystemExplorerNode" />
             </path>
-            <path>
-              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
-              <item name="Rusty" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="core" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="target" type="34e6ba20:FileSystemExplorerNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -194,7 +114,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Cargo Command.Run Core">
+    <configuration name="Run Core" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package core --bin Core" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/Core" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="Start" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="channel" value="STABLE" />
       <option name="command" value="run" />
@@ -205,6 +135,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo Command.Run Core" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -243,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555792651823</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="We /github/ 4">
+      <created>1555794068983</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1555794068983</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -258,7 +200,7 @@
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2739872" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2771855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -306,6 +248,26 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -346,9 +308,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="We /github/" />
     <MESSAGE value="We /github/ 2" />
-    <MESSAGE value="We /github/ 3" />
     <MESSAGE value="Revert &quot;We /github/ 3&quot;&#10;&#10;This reverts commit fcff3a5b" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;We /github/ 3&quot;&#10;&#10;This reverts commit fcff3a5b" />
+    <MESSAGE value="We /github/ 3" />
+    <MESSAGE value="We /github/ 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="We /github/ 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -369,10 +332,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/core/Cargo.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="153" column="7" selection-start-line="153" selection-start-column="7" selection-end-line="153" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-msvc/lib/rustlib/src/rust/src/libstd/io/stdio.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4185">
-          <caret line="281" column="11" selection-start-line="281" selection-start-column="11" selection-end-line="281" selection-end-column="11" />
+        <state relative-caret-position="1">
+          <caret line="245" selection-start-line="245" selection-end-line="245" />
           <folding>
             <element signature="e#9330#9331#0" expanded="true" />
             <element signature="e#9371#9372#0" expanded="true" />
@@ -382,7 +352,7 @@
     </entry>
     <entry file="file://$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-msvc/lib/rustlib/src/rust/src/libcore/str/mod.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
+        <state relative-caret-position="568">
           <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
           <folding>
             <element signature="e#126082#126083#0" expanded="true" />
@@ -393,14 +363,14 @@
     </entry>
     <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/rand-0.6.5/src/lib.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6000">
+        <state relative-caret-position="568">
           <caret line="409" column="7" selection-start-line="409" selection-start-column="7" selection-end-line="409" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/rand-0.6.5/src/rngs/thread.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
+        <state relative-caret-position="568">
           <caret line="94" column="7" selection-start-line="94" selection-start-column="7" selection-end-line="94" selection-end-column="7" />
           <folding>
             <element signature="e#4286#4287#0" expanded="true" />
@@ -411,22 +381,15 @@
     </entry>
     <entry file="file://$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-msvc/lib/rustlib/src/rust/src/liballoc/string.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4230">
+        <state relative-caret-position="568">
           <caret line="282" column="11" selection-start-line="282" selection-start-column="11" selection-end-line="282" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/Cargo.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="153" column="7" selection-start-line="153" selection-start-column="7" selection-end-line="153" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
