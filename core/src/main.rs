@@ -3,6 +3,8 @@ use rand::Rng;
 use std::cmp::Ordering;
 use std::str::FromStr;
 
+//GIT THIS STUFF
+
 const MIN: u32 = 0;
 const MAX: u32 = 5;
 
