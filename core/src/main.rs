@@ -2,8 +2,7 @@ use core::borrow::Borrow;
 use rand::Rng;
 use std::cmp::Ordering;
 use std::str::FromStr;
-
-//GIT THIS STUFF
+use std::num::Wrapping;
 
 const MIN: u32 = 0;
 const MAX: u32 = 5;
@@ -15,6 +14,18 @@ fn main(){
     
     loop {
         let guess: u32 = read_valid_guess(&input);
+        let guess2: &str = "String pöinter";
+        let mut guess2: u64 = 23;
+        
+//        let wrapped = Wrapping(23);
+//        wrapped + 3;
+        
+        let compound: [i32; 3] = [3,4,5];
+        let tupper = (500, 42, 23);
+        let p = tupper.0;
+        
+//        let len: Fn<u32> = compound.len;
+//        let len = len();
         
         match guess.cmp(&value){
             Ordering::Less => println!("Smöl"),
@@ -28,7 +39,9 @@ fn main(){
     
     println!("Sup bro");
 }
-
+/*
+Benor
+*/
 fn read_valid_guess<T: FromStr>(input: &std::io::Stdin) -> T{
     let mut guess = String::new();
     input.read_line(&mut guess);
@@ -45,5 +58,5 @@ fn read_valid_guess<T: FromStr>(input: &std::io::Stdin) -> T{
 }
 
 fn generate_number() -> u32{
-    return rand::thread_rng().gen_range(MIN, MAX);
+    rand::thread_rng().gen_range(MIN, MAX)
 }
